@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0643-maximum-average-subarray-i) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0334-increasing-triplet-subsequence) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Enumeration
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->
