@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0283-move-zeroes) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0001-two-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
