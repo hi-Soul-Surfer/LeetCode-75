@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0643-maximum-average-subarray-i) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0392-is-subsequence) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Hash Table
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 <!---LeetCode Topics End-->
