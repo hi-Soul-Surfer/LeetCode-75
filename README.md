@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0643-maximum-average-subarray-i) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0940-fruit-into-baskets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0349-intersection-of-two-arrays) |
+| [0940-fruit-into-baskets](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0940-fruit-into-baskets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0940-fruit-into-baskets) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Enumeration
 |  |
