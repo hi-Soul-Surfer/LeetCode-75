@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3791-fruits-into-baskets-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0349-intersection-of-two-arrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3791-fruits-into-baskets-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3791-fruits-into-baskets-iii) |
 ## Recursion
 |  |
 | ------- |
