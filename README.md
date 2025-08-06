@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0073-set-matrix-zeroes) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0349-intersection-of-two-arrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3790-fruits-into-baskets-ii) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
