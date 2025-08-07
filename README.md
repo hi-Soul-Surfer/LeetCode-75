@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0349-intersection-of-two-arrays) |
+| [0502-ipo](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0502-ipo) |
 | [0643-maximum-average-subarray-i](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0643-maximum-average-subarray-i) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0940-fruit-into-baskets) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0334-increasing-triplet-subsequence) |
+| [0502-ipo](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0502-ipo) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Two Pointers
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0349-intersection-of-two-arrays) |
+| [0502-ipo](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0502-ipo) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0502-ipo) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Bit Manipulation
 |  |
