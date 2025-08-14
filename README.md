@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -149,4 +150,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0004-median-of-two-sorted-arrays) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
