@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0283-move-zeroes) |
@@ -52,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0392-is-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/hi-Soul-Surfer/LeetCode-75/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
